@@ -12,28 +12,8 @@ Make this sound professional:
 
 ## Technique Used
 
-Few-Shot Prompting
+One Shot Prompting
 
-## Examples
+## Output
 
-Informal:
-Who is calling?
-
-Professional:
-May I ask who is calling?
-
----
-
-Informal:
-Yes
-
-Professional:
-Yes, I'll be available today at any time for the interview.
-
----
-
-Informal:
-Send this now.
-
-Professional:
-Please send it now.
+Could you please send this now? 
